@@ -1,2 +1,2 @@
-# simple-vanilajs-calculator
+# simple-vanillajs-calculator
 Calculator with normal java script
